@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Editorial Bonaventuariana Libros</string>
+    <string name="tab_text_1">Descubrir</string>
+    <string name="tab_text_2">Biblioteca</string>
+</resources>
